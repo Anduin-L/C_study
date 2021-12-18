@@ -1,4 +1,5 @@
-.o
-.lib
+*.o
+*.lib
 .dll
-a.out
+*.out
+*.obj
